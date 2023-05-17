@@ -30,15 +30,38 @@ Clone the repo: https://github.com/RichMur84/My-Employee-Tracker.git
 
 ## Usage Information
 
-In terminal input npm i to install files needed. Also npm inquirer, npm init, npm i mysql and npm console.table Then Run node index.js
+ *  In the terminal type npm i to install files needed. 
+<br>
+ * Install npm inquirer
+<br> 
+ * Install npm init
+<br>
+ * Install npm i mysql 
+<br>
+ * npm console.table 
+<br>
+ * Then Run node index.js
 
 ## Contribution Guidelines
 
 Please any questions and suggestions contact me. I would like to thank 
 
 ## Test Instructions
+Video:
+<br>
+https://drive.google.com/file/d/1MsQKdilEoelzfN1rxTm-fIyGkZ6ztfVo/view
+<br>
+Screenshots:
+<br>
+![screenshot](./images/Screenshot1.png) 
+<br>
+![screenshot](./images/Screenshot2.png)
 
-n/a
+## Used In This Project
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Inquire](https://img.shields.io/badge/Inquire-323330?style=for-the-badge&logo=inquire&logoColor=blue)
 
 ## License
 
